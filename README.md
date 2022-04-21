@@ -9,3 +9,4 @@
 - Flexbox
 - The best way to cleanly handle user input
 -Any questions or collaborations you can reach me => mburumaina648@gmail.com
+live view - https://mycalculator100.netlify.app
